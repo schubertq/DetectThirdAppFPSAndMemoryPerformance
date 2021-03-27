@@ -1,0 +1,9 @@
+Package: com.petershu.mgtv
+Name: mgtv
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: petershu
+Author: petershu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

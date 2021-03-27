@@ -1,0 +1,1 @@
+#define PS_IPHONE_SCREEN_WIDTH (MIN([UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height))
