@@ -55,4 +55,4 @@ cd 到项目根目录
 ```
 
 - 效果图
-![image](https://github.com/schubertq/DetectThirdAppFPSAndMemoryPerformance/screenshots/1.jpg)
+![image](http://tedshu.com/images/ThirdApp/11.jpg)
