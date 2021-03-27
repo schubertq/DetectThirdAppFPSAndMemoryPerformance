@@ -55,4 +55,5 @@ cd 到项目根目录
 ```
 
 - 效果图
-![image](http://tedshu.com/images/ThirdApp/11.jpg)
+
+<img src="http://tedshu.com/images/ThirdApp/11.jpg" width = "30%" />
